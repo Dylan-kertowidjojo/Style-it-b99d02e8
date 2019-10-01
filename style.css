@@ -1,0 +1,18 @@
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0 ;
+}
+input,
+label{
+outline-color:darkblue;
+padding:1em;
+}
+input,
+label{
+	border-color:black;
+}
